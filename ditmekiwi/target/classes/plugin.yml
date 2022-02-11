@@ -1,0 +1,17 @@
+name: Super idol
+version: 'phien ban 1.0'
+main: me.wiburach.main
+api-version: 1.18
+authors: [ ditmekiwi ]
+description: wibu rach nhat la thang sinon
+commands:
+  heal:
+    description: hồi máu người chơi.
+    usage: /<command>
+    aliases: healme
+    permission-message: bạn không đủ quyền để sử dụng câu lệnh này.
+   feed:
+    description: giúp người chơi no.
+    usage: /<command>
+     aliases: feedme
+     permission-message: bạn không đủ quyền để sử dụng câu lệnh này.
